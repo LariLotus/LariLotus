@@ -3,6 +3,7 @@
 
 - 🌱 I’m currently learning **QA, python, web**
 - 📫 How to reach me **larilotus12@gmail.com**
+- I write autotests in Python
 - 🌍 I speak Russian (native), English (B2)
 
 ### Connect with me:
@@ -19,8 +20,6 @@
 <code><img width="5%" title="Requests" src="https://upload.wikimedia.org/wikipedia/commons/a/aa/Requests_Python_Logo.png"></code>
 <code><img width="5%" title="Allure Report" src="https://avatars.githubusercontent.com/u/5879127?s=200&v=4"></code>
 <code><img width="5%" title="Allure TestOps" src="https://marketplace-cdn.atlassian.com/files/92e2d8c3-2a30-46c0-bf21-2453a4a270d3?fileType=image&mode=full-fit"></code>
-<code><img width="5%" title="Jira" src="https://logojinni.com/image/logos/jira-3.svg"></code>
-<code><img width="5%" title="GitLab" src="https://dada.cs.washington.edu/images/gitlab-icon-rgb.png"></code>
 <code><img width="5%" title="GitHub" src="https://cdn-icons-png.flaticon.com/512/25/25231.png"></code>
 <code><img width="5%" title="SQL" src="https://image.shutterstock.com/image-vector/sql-database-icon-logo-design-260nw-684826648.jpg"></code>
 <code><img width="5%" title="Selenoid" src="https://diginomica.com/sites/default/files/images/2017-09/docker-container.jpg"></code>
