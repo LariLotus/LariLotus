@@ -35,7 +35,6 @@
    <tr> 
     <td width="30%" valign="bottom"><img src="https://zabgu.ru/photo/html_document/images/Simvolika_universiteta_34887949.png"></td><td valign="middle">Zabaikalsky State University.</br>Master 2014</td></tr>
   </table>
-  </br>
   
   #### Additional Education:
 <table width="100%" border='0'>
