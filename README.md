@@ -30,9 +30,9 @@
 
 ## :bar_chart:Git stats
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mkdv00&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mkdv00&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mkdv00&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LariLotus&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LariLotus&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LariLotus&theme=tokyonight)
 
 <details><summary>:scroll: <b>Курсы</b></summary>
 <p> <table style="width=100%" cellspacing="0" cellpadding="5">
