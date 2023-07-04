@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **QA, python, web**
 - 📫 How to reach me **larilotus12@gmail.com**
-- :computer:I write autotests in Python
+- :computer: I write autotests in Python
 - 🌍 I speak Russian (native), English (B1)
 
 ### Connect with me:
