@@ -44,7 +44,7 @@
 ## Diploma project
 Implemented during training at the School of Test Automation Engineers QA GURU
 ## UI Test
-:link: Test project: <a target="_blank" href="https://github.com/LariLotus/UI_diploma_demoqa"</br></br>
+:link: Test project: <a target="_blank" href="https://github.com/LariLotus/UI_diploma_demoqa">UI_diploma_demoqa</a></br></br>
 :heavy_check_mark: Training project on realization of autotesting UI for https://demoqa.com/. </br></br>
 
 ## API Test
