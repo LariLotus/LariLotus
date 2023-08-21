@@ -49,7 +49,7 @@ Implemented during training at the School of Test Automation Engineers QA GURU
 
 ## API Test
 :link: Test project: <a target="_blank" href="https://github.com/LariLotus/API_diploma">API_diploma</a></br></br>
-:heavy_check_mark: Training project on realization of autotesting UI for https://reqres.in/. </br></br>
+:heavy_check_mark: Training project on realization of autotesting API for https://reqres.in/. </br></br>
 
 ## :bar_chart:Git stats
 
